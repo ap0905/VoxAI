@@ -6,7 +6,7 @@ const OpenAI = require("openai");
 const messages = [];
 
 const openai = new OpenAI({
-  apiKey: "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",
+  apiKey: //api_key,
 });
 
 async function main(input) {
